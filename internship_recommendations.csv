@@ -1,0 +1,1001 @@
+Internship ID,Internship Title,Company Name,Location,Skills Required,Duration (Months),Stipend (USD/Month),Application Deadline,Eligibility,Internship Description
+1,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1781,2024-08-17,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+2,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1849,2024-08-04,"Design, Fine Arts Majors",Create visual content for various media
+3,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1630,2024-07-12,"Computer Science, Graduating 2024",Develop and maintain web applications
+4,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1941,2024-08-24,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+5,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1080,2024-08-11,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+6,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1731,2024-06-27,"Finance, Economics Majors",Assist in financial analysis and reporting
+7,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1503,2024-07-17,"Design, Fine Arts Majors",Create visual content for various media
+8,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1735,2024-07-19,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+9,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1594,2024-08-13,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+10,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1847,2024-08-20,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+11,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1627,2024-07-08,"Finance, Economics Majors",Assist in financial analysis and reporting
+12,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1300,2024-06-27,"Design, Fine Arts Majors",Create visual content for various media
+13,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1285,2024-08-03,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+14,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1481,2024-08-11,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+15,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1040,2024-08-05,"Design, Fine Arts Majors",Create visual content for various media
+16,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1887,2024-06-28,"Computer Science, Graduating 2024",Develop and maintain web applications
+17,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1892,2024-07-12,"Design, Fine Arts Majors",Create visual content for various media
+18,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1672,2024-08-13,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+19,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1153,2024-07-16,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+20,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1504,2024-07-06,"Design, Fine Arts Majors",Create visual content for various media
+21,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1193,2024-07-02,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+22,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1736,2024-07-20,"Finance, Economics Majors",Assist in financial analysis and reporting
+23,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1239,2024-07-16,"Computer Science, Graduating 2024",Develop and maintain web applications
+24,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1075,2024-07-03,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+25,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1407,2024-08-17,"Computer Science, Graduating 2024",Develop and maintain web applications
+26,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1076,2024-08-18,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+27,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1533,2024-08-06,"Finance, Economics Majors",Assist in financial analysis and reporting
+28,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1811,2024-08-12,"Design, Fine Arts Majors",Create visual content for various media
+29,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1882,2024-08-15,"Design, Fine Arts Majors",Create visual content for various media
+30,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1854,2024-07-18,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+31,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1929,2024-08-12,"Computer Science, Graduating 2024",Develop and maintain web applications
+32,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1090,2024-07-19,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+33,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1703,2024-07-22,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+34,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1562,2024-07-17,"Finance, Economics Majors",Assist in financial analysis and reporting
+35,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1170,2024-07-26,"Design, Fine Arts Majors",Create visual content for various media
+36,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1234,2024-07-26,"Computer Science, Graduating 2024",Develop and maintain web applications
+37,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1619,2024-08-04,"Finance, Economics Majors",Assist in financial analysis and reporting
+38,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1724,2024-07-01,"Finance, Economics Majors",Assist in financial analysis and reporting
+39,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1435,2024-07-03,"Design, Fine Arts Majors",Create visual content for various media
+40,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1562,2024-07-10,"Finance, Economics Majors",Assist in financial analysis and reporting
+41,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1181,2024-08-09,"Finance, Economics Majors",Assist in financial analysis and reporting
+42,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1598,2024-08-08,"Computer Science, Graduating 2024",Develop and maintain web applications
+43,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1611,2024-07-11,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+44,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1227,2024-07-25,"Finance, Economics Majors",Assist in financial analysis and reporting
+45,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1701,2024-07-11,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+46,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1420,2024-08-15,"Computer Science, Graduating 2024",Develop and maintain web applications
+47,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1262,2024-07-10,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+48,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1773,2024-07-12,"Finance, Economics Majors",Assist in financial analysis and reporting
+49,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1843,2024-07-24,"Design, Fine Arts Majors",Create visual content for various media
+50,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1736,2024-07-23,"Computer Science, Graduating 2024",Develop and maintain web applications
+51,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1776,2024-08-04,"Computer Science, Graduating 2024",Develop and maintain web applications
+52,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1093,2024-08-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+53,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1076,2024-08-06,"Finance, Economics Majors",Assist in financial analysis and reporting
+54,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1297,2024-07-01,"Finance, Economics Majors",Assist in financial analysis and reporting
+55,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1687,2024-08-09,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+56,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1429,2024-08-10,"Design, Fine Arts Majors",Create visual content for various media
+57,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1004,2024-06-27,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+58,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1054,2024-08-21,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+59,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1261,2024-07-04,"Design, Fine Arts Majors",Create visual content for various media
+60,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1440,2024-08-14,"Computer Science, Graduating 2024",Develop and maintain web applications
+61,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1280,2024-08-08,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+62,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1685,2024-07-09,"Design, Fine Arts Majors",Create visual content for various media
+63,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1768,2024-08-03,"Computer Science, Graduating 2024",Develop and maintain web applications
+64,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1544,2024-07-28,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+65,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1367,2024-08-12,"Finance, Economics Majors",Assist in financial analysis and reporting
+66,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1744,2024-07-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+67,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1938,2024-07-12,"Design, Fine Arts Majors",Create visual content for various media
+68,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1435,2024-06-30,"Computer Science, Graduating 2024",Develop and maintain web applications
+69,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1231,2024-06-28,"Finance, Economics Majors",Assist in financial analysis and reporting
+70,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1744,2024-07-14,"Finance, Economics Majors",Assist in financial analysis and reporting
+71,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1223,2024-07-23,"Computer Science, Graduating 2024",Develop and maintain web applications
+72,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1064,2024-06-29,"Computer Science, Graduating 2024",Develop and maintain web applications
+73,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1875,2024-07-08,"Design, Fine Arts Majors",Create visual content for various media
+74,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1208,2024-08-18,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+75,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1936,2024-07-10,"Finance, Economics Majors",Assist in financial analysis and reporting
+76,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1822,2024-08-12,"Design, Fine Arts Majors",Create visual content for various media
+77,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1252,2024-06-29,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+78,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1139,2024-07-28,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+79,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1165,2024-08-10,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+80,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1873,2024-08-22,"Computer Science, Graduating 2024",Develop and maintain web applications
+81,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1758,2024-07-29,"Computer Science, Graduating 2024",Develop and maintain web applications
+82,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1546,2024-08-07,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+83,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1453,2024-08-11,"Finance, Economics Majors",Assist in financial analysis and reporting
+84,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1108,2024-08-11,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+85,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1390,2024-08-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+86,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1390,2024-07-06,"Design, Fine Arts Majors",Create visual content for various media
+87,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1769,2024-08-18,"Finance, Economics Majors",Assist in financial analysis and reporting
+88,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1002,2024-07-01,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+89,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1675,2024-08-02,"Finance, Economics Majors",Assist in financial analysis and reporting
+90,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1773,2024-06-29,"Computer Science, Graduating 2024",Develop and maintain web applications
+91,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1052,2024-07-09,"Finance, Economics Majors",Assist in financial analysis and reporting
+92,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1620,2024-07-10,"Design, Fine Arts Majors",Create visual content for various media
+93,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1139,2024-08-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+94,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1325,2024-08-16,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+95,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1215,2024-07-14,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+96,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1350,2024-07-23,"Computer Science, Graduating 2024",Develop and maintain web applications
+97,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1996,2024-07-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+98,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1654,2024-08-09,"Finance, Economics Majors",Assist in financial analysis and reporting
+99,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1316,2024-06-30,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+100,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1769,2024-08-02,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+101,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1376,2024-08-01,"Computer Science, Graduating 2024",Develop and maintain web applications
+102,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1801,2024-07-09,"Computer Science, Graduating 2024",Develop and maintain web applications
+103,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1056,2024-08-04,"Finance, Economics Majors",Assist in financial analysis and reporting
+104,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1178,2024-07-01,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+105,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1867,2024-08-13,"Finance, Economics Majors",Assist in financial analysis and reporting
+106,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1811,2024-07-11,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+107,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1644,2024-07-10,"Finance, Economics Majors",Assist in financial analysis and reporting
+108,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1441,2024-07-25,"Computer Science, Graduating 2024",Develop and maintain web applications
+109,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1144,2024-08-14,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+110,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1507,2024-07-16,"Design, Fine Arts Majors",Create visual content for various media
+111,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1159,2024-08-22,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+112,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1326,2024-07-14,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+113,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1125,2024-08-01,"Design, Fine Arts Majors",Create visual content for various media
+114,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1320,2024-07-17,"Computer Science, Graduating 2024",Develop and maintain web applications
+115,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1109,2024-08-08,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+116,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1538,2024-07-13,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+117,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1163,2024-07-18,"Computer Science, Graduating 2024",Develop and maintain web applications
+118,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1706,2024-07-17,"Computer Science, Graduating 2024",Develop and maintain web applications
+119,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1099,2024-08-09,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+120,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1872,2024-08-07,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+121,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1746,2024-08-09,"Computer Science, Graduating 2024",Develop and maintain web applications
+122,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1502,2024-06-27,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+123,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1100,2024-08-24,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+124,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1202,2024-08-07,"Design, Fine Arts Majors",Create visual content for various media
+125,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1831,2024-08-09,"Computer Science, Graduating 2024",Develop and maintain web applications
+126,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1071,2024-07-26,"Finance, Economics Majors",Assist in financial analysis and reporting
+127,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1170,2024-08-12,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+128,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1958,2024-07-19,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+129,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1966,2024-08-15,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+130,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1272,2024-07-11,"Design, Fine Arts Majors",Create visual content for various media
+131,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1418,2024-08-03,"Computer Science, Graduating 2024",Develop and maintain web applications
+132,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1698,2024-07-29,"Computer Science, Graduating 2024",Develop and maintain web applications
+133,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1046,2024-08-05,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+134,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1816,2024-07-03,"Computer Science, Graduating 2024",Develop and maintain web applications
+135,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1739,2024-07-06,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+136,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1992,2024-07-24,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+137,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1451,2024-08-06,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+138,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1340,2024-07-12,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+139,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1162,2024-08-01,"Computer Science, Graduating 2024",Develop and maintain web applications
+140,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1834,2024-07-14,"Finance, Economics Majors",Assist in financial analysis and reporting
+141,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1850,2024-07-02,"Design, Fine Arts Majors",Create visual content for various media
+142,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1824,2024-08-17,"Design, Fine Arts Majors",Create visual content for various media
+143,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1852,2024-07-10,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+144,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1167,2024-08-03,"Design, Fine Arts Majors",Create visual content for various media
+145,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1059,2024-07-29,"Finance, Economics Majors",Assist in financial analysis and reporting
+146,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1286,2024-07-02,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+147,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1607,2024-07-06,"Computer Science, Graduating 2024",Develop and maintain web applications
+148,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1567,2024-07-14,"Finance, Economics Majors",Assist in financial analysis and reporting
+149,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1377,2024-08-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+150,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1827,2024-07-11,"Computer Science, Graduating 2024",Develop and maintain web applications
+151,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1922,2024-07-27,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+152,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1368,2024-07-20,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+153,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1973,2024-07-03,"Design, Fine Arts Majors",Create visual content for various media
+154,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1850,2024-07-25,"Finance, Economics Majors",Assist in financial analysis and reporting
+155,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1639,2024-08-05,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+156,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1208,2024-08-24,"Computer Science, Graduating 2024",Develop and maintain web applications
+157,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1517,2024-07-05,"Finance, Economics Majors",Assist in financial analysis and reporting
+158,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1067,2024-07-12,"Design, Fine Arts Majors",Create visual content for various media
+159,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1865,2024-08-24,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+160,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1941,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+161,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1567,2024-08-02,"Finance, Economics Majors",Assist in financial analysis and reporting
+162,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1685,2024-08-02,"Finance, Economics Majors",Assist in financial analysis and reporting
+163,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1861,2024-07-17,"Design, Fine Arts Majors",Create visual content for various media
+164,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1241,2024-08-03,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+165,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1834,2024-06-26,"Finance, Economics Majors",Assist in financial analysis and reporting
+166,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1832,2024-07-17,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+167,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1162,2024-07-07,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+168,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1237,2024-07-28,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+169,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1006,2024-06-30,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+170,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1987,2024-07-19,"Design, Fine Arts Majors",Create visual content for various media
+171,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1984,2024-08-14,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+172,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1468,2024-07-19,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+173,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1153,2024-08-11,"Finance, Economics Majors",Assist in financial analysis and reporting
+174,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1444,2024-07-31,"Finance, Economics Majors",Assist in financial analysis and reporting
+175,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1142,2024-08-08,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+176,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1444,2024-07-04,"Computer Science, Graduating 2024",Develop and maintain web applications
+177,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1207,2024-07-31,"Design, Fine Arts Majors",Create visual content for various media
+178,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1290,2024-07-03,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+179,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1766,2024-08-04,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+180,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1755,2024-07-18,"Computer Science, Graduating 2024",Develop and maintain web applications
+181,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1729,2024-08-08,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+182,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1353,2024-08-10,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+183,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1594,2024-06-29,"Finance, Economics Majors",Assist in financial analysis and reporting
+184,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1136,2024-07-07,"Computer Science, Graduating 2024",Develop and maintain web applications
+185,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1257,2024-07-09,"Computer Science, Graduating 2024",Develop and maintain web applications
+186,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1897,2024-08-18,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+187,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1674,2024-07-31,"Computer Science, Graduating 2024",Develop and maintain web applications
+188,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1375,2024-07-14,"Finance, Economics Majors",Assist in financial analysis and reporting
+189,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1530,2024-07-06,"Design, Fine Arts Majors",Create visual content for various media
+190,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1206,2024-07-28,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+191,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1192,2024-07-12,"Finance, Economics Majors",Assist in financial analysis and reporting
+192,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1731,2024-08-01,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+193,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1967,2024-07-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+194,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1799,2024-08-12,"Design, Fine Arts Majors",Create visual content for various media
+195,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1445,2024-08-19,"Design, Fine Arts Majors",Create visual content for various media
+196,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1767,2024-08-13,"Computer Science, Graduating 2024",Develop and maintain web applications
+197,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1767,2024-06-28,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+198,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1200,2024-07-01,"Computer Science, Graduating 2024",Develop and maintain web applications
+199,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1028,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+200,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1906,2024-07-06,"Finance, Economics Majors",Assist in financial analysis and reporting
+201,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1026,2024-07-07,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+202,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1316,2024-08-03,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+203,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1710,2024-07-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+204,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1874,2024-07-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+205,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1037,2024-07-07,"Computer Science, Graduating 2024",Develop and maintain web applications
+206,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1529,2024-07-02,"Computer Science, Graduating 2024",Develop and maintain web applications
+207,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1945,2024-07-23,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+208,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1473,2024-07-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+209,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1176,2024-07-12,"Design, Fine Arts Majors",Create visual content for various media
+210,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1339,2024-07-09,"Design, Fine Arts Majors",Create visual content for various media
+211,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1425,2024-07-22,"Computer Science, Graduating 2024",Develop and maintain web applications
+212,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1076,2024-08-16,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+213,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1887,2024-07-19,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+214,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1822,2024-08-12,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+215,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1202,2024-07-14,"Computer Science, Graduating 2024",Develop and maintain web applications
+216,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1872,2024-07-06,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+217,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1152,2024-08-14,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+218,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1908,2024-07-03,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+219,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1696,2024-06-27,"Computer Science, Graduating 2024",Develop and maintain web applications
+220,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1215,2024-08-22,"Design, Fine Arts Majors",Create visual content for various media
+221,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1280,2024-07-23,"Computer Science, Graduating 2024",Develop and maintain web applications
+222,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1849,2024-08-21,"Computer Science, Graduating 2024",Develop and maintain web applications
+223,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1966,2024-07-19,"Finance, Economics Majors",Assist in financial analysis and reporting
+224,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1703,2024-08-07,"Design, Fine Arts Majors",Create visual content for various media
+225,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1788,2024-07-01,"Finance, Economics Majors",Assist in financial analysis and reporting
+226,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1589,2024-07-14,"Design, Fine Arts Majors",Create visual content for various media
+227,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1906,2024-07-01,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+228,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1508,2024-07-03,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+229,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1345,2024-07-26,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+230,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1977,2024-07-03,"Finance, Economics Majors",Assist in financial analysis and reporting
+231,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1078,2024-08-21,"Finance, Economics Majors",Assist in financial analysis and reporting
+232,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1715,2024-08-14,"Finance, Economics Majors",Assist in financial analysis and reporting
+233,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1841,2024-07-04,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+234,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1183,2024-07-05,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+235,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1039,2024-07-28,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+236,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1286,2024-07-23,"Design, Fine Arts Majors",Create visual content for various media
+237,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1439,2024-07-24,"Finance, Economics Majors",Assist in financial analysis and reporting
+238,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1469,2024-08-04,"Computer Science, Graduating 2024",Develop and maintain web applications
+239,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1032,2024-08-19,"Finance, Economics Majors",Assist in financial analysis and reporting
+240,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1965,2024-08-13,"Computer Science, Graduating 2024",Develop and maintain web applications
+241,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1384,2024-06-29,"Design, Fine Arts Majors",Create visual content for various media
+242,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1832,2024-08-01,"Finance, Economics Majors",Assist in financial analysis and reporting
+243,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1999,2024-08-01,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+244,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1047,2024-08-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+245,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1881,2024-06-27,"Computer Science, Graduating 2024",Develop and maintain web applications
+246,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1533,2024-08-01,"Design, Fine Arts Majors",Create visual content for various media
+247,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1983,2024-07-06,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+248,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1299,2024-07-28,"Finance, Economics Majors",Assist in financial analysis and reporting
+249,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1723,2024-08-12,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+250,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1398,2024-07-18,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+251,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1614,2024-08-11,"Finance, Economics Majors",Assist in financial analysis and reporting
+252,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1582,2024-08-09,"Design, Fine Arts Majors",Create visual content for various media
+253,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1311,2024-08-02,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+254,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1842,2024-07-15,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+255,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1066,2024-08-07,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+256,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1028,2024-08-15,"Computer Science, Graduating 2024",Develop and maintain web applications
+257,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1833,2024-06-29,"Design, Fine Arts Majors",Create visual content for various media
+258,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1582,2024-08-07,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+259,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1496,2024-08-01,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+260,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1295,2024-07-23,"Computer Science, Graduating 2024",Develop and maintain web applications
+261,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1571,2024-07-05,"Computer Science, Graduating 2024",Develop and maintain web applications
+262,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1512,2024-07-28,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+263,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1498,2024-07-24,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+264,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1515,2024-07-02,"Design, Fine Arts Majors",Create visual content for various media
+265,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1567,2024-07-19,"Computer Science, Graduating 2024",Develop and maintain web applications
+266,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1231,2024-07-26,"Finance, Economics Majors",Assist in financial analysis and reporting
+267,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1158,2024-08-16,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+268,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1196,2024-07-17,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+269,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1947,2024-07-05,"Computer Science, Graduating 2024",Develop and maintain web applications
+270,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1285,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+271,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1116,2024-08-19,"Design, Fine Arts Majors",Create visual content for various media
+272,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1156,2024-08-22,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+273,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1503,2024-08-21,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+274,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1272,2024-07-16,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+275,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1700,2024-08-12,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+276,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1158,2024-06-28,"Computer Science, Graduating 2024",Develop and maintain web applications
+277,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1580,2024-07-24,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+278,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1701,2024-07-25,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+279,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1039,2024-07-23,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+280,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1365,2024-08-08,"Computer Science, Graduating 2024",Develop and maintain web applications
+281,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1018,2024-07-15,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+282,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1430,2024-07-17,"Design, Fine Arts Majors",Create visual content for various media
+283,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1045,2024-07-02,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+284,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1722,2024-07-01,"Computer Science, Graduating 2024",Develop and maintain web applications
+285,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1192,2024-07-01,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+286,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1535,2024-08-14,"Computer Science, Graduating 2024",Develop and maintain web applications
+287,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1828,2024-08-09,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+288,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1652,2024-07-19,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+289,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1293,2024-07-08,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+290,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1222,2024-08-18,"Design, Fine Arts Majors",Create visual content for various media
+291,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1113,2024-07-28,"Finance, Economics Majors",Assist in financial analysis and reporting
+292,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1351,2024-07-23,"Finance, Economics Majors",Assist in financial analysis and reporting
+293,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1071,2024-07-06,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+294,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1022,2024-07-30,"Computer Science, Graduating 2024",Develop and maintain web applications
+295,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1873,2024-08-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+296,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1260,2024-07-11,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+297,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1770,2024-06-26,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+298,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1727,2024-07-26,"Finance, Economics Majors",Assist in financial analysis and reporting
+299,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1614,2024-08-02,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+300,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1075,2024-08-09,"Design, Fine Arts Majors",Create visual content for various media
+301,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1676,2024-07-29,"Design, Fine Arts Majors",Create visual content for various media
+302,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1618,2024-07-10,"Computer Science, Graduating 2024",Develop and maintain web applications
+303,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1033,2024-06-30,"Design, Fine Arts Majors",Create visual content for various media
+304,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1602,2024-08-20,"Design, Fine Arts Majors",Create visual content for various media
+305,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1030,2024-07-02,"Design, Fine Arts Majors",Create visual content for various media
+306,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1694,2024-07-01,"Computer Science, Graduating 2024",Develop and maintain web applications
+307,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1536,2024-07-26,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+308,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1883,2024-07-17,"Design, Fine Arts Majors",Create visual content for various media
+309,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1648,2024-08-06,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+310,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1142,2024-08-06,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+311,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1383,2024-08-07,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+312,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1904,2024-08-16,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+313,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1010,2024-07-15,"Design, Fine Arts Majors",Create visual content for various media
+314,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1398,2024-07-14,"Design, Fine Arts Majors",Create visual content for various media
+315,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1468,2024-07-22,"Design, Fine Arts Majors",Create visual content for various media
+316,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1940,2024-07-09,"Finance, Economics Majors",Assist in financial analysis and reporting
+317,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1140,2024-07-17,"Design, Fine Arts Majors",Create visual content for various media
+318,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1009,2024-07-10,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+319,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1475,2024-08-16,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+320,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1066,2024-07-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+321,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1558,2024-07-25,"Design, Fine Arts Majors",Create visual content for various media
+322,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1192,2024-07-22,"Design, Fine Arts Majors",Create visual content for various media
+323,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1239,2024-07-10,"Finance, Economics Majors",Assist in financial analysis and reporting
+324,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1430,2024-08-16,"Design, Fine Arts Majors",Create visual content for various media
+325,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1385,2024-08-10,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+326,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1790,2024-06-27,"Design, Fine Arts Majors",Create visual content for various media
+327,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1016,2024-07-11,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+328,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1453,2024-07-07,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+329,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1455,2024-07-18,"Design, Fine Arts Majors",Create visual content for various media
+330,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1700,2024-06-29,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+331,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1520,2024-08-23,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+332,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1164,2024-08-03,"Computer Science, Graduating 2024",Develop and maintain web applications
+333,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1793,2024-07-04,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+334,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1577,2024-07-08,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+335,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1642,2024-06-29,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+336,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1604,2024-07-04,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+337,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1341,2024-07-22,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+338,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1388,2024-07-29,"Computer Science, Graduating 2024",Develop and maintain web applications
+339,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1347,2024-08-13,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+340,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1346,2024-06-27,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+341,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1847,2024-07-25,"Design, Fine Arts Majors",Create visual content for various media
+342,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1396,2024-08-02,"Design, Fine Arts Majors",Create visual content for various media
+343,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1924,2024-07-03,"Computer Science, Graduating 2024",Develop and maintain web applications
+344,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1841,2024-08-19,"Design, Fine Arts Majors",Create visual content for various media
+345,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1101,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+346,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1369,2024-08-04,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+347,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1355,2024-08-18,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+348,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1617,2024-08-20,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+349,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1467,2024-07-11,"Computer Science, Graduating 2024",Develop and maintain web applications
+350,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1609,2024-08-02,"Design, Fine Arts Majors",Create visual content for various media
+351,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1341,2024-07-08,"Finance, Economics Majors",Assist in financial analysis and reporting
+352,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1436,2024-08-08,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+353,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1014,2024-07-19,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+354,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1977,2024-07-15,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+355,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1422,2024-06-30,"Design, Fine Arts Majors",Create visual content for various media
+356,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1681,2024-07-04,"Design, Fine Arts Majors",Create visual content for various media
+357,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1710,2024-08-13,"Finance, Economics Majors",Assist in financial analysis and reporting
+358,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1395,2024-08-23,"Finance, Economics Majors",Assist in financial analysis and reporting
+359,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1438,2024-07-06,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+360,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1596,2024-08-18,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+361,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1265,2024-07-28,"Computer Science, Graduating 2024",Develop and maintain web applications
+362,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1842,2024-08-07,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+363,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1553,2024-07-15,"Computer Science, Graduating 2024",Develop and maintain web applications
+364,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1443,2024-08-04,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+365,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1669,2024-08-17,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+366,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1787,2024-08-01,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+367,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1628,2024-07-25,"Design, Fine Arts Majors",Create visual content for various media
+368,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1307,2024-07-30,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+369,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1426,2024-07-07,"Finance, Economics Majors",Assist in financial analysis and reporting
+370,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1872,2024-07-10,"Computer Science, Graduating 2024",Develop and maintain web applications
+371,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1136,2024-08-15,"Design, Fine Arts Majors",Create visual content for various media
+372,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1291,2024-08-10,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+373,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1781,2024-08-09,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+374,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1874,2024-08-19,"Design, Fine Arts Majors",Create visual content for various media
+375,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1695,2024-06-28,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+376,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1621,2024-07-31,"Design, Fine Arts Majors",Create visual content for various media
+377,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1379,2024-08-04,"Design, Fine Arts Majors",Create visual content for various media
+378,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1774,2024-08-11,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+379,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1231,2024-06-29,"Design, Fine Arts Majors",Create visual content for various media
+380,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1951,2024-08-11,"Design, Fine Arts Majors",Create visual content for various media
+381,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1290,2024-07-25,"Finance, Economics Majors",Assist in financial analysis and reporting
+382,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1546,2024-07-31,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+383,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1685,2024-07-12,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+384,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1439,2024-07-08,"Finance, Economics Majors",Assist in financial analysis and reporting
+385,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1345,2024-08-03,"Design, Fine Arts Majors",Create visual content for various media
+386,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1560,2024-08-12,"Computer Science, Graduating 2024",Develop and maintain web applications
+387,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1968,2024-08-13,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+388,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1875,2024-07-27,"Design, Fine Arts Majors",Create visual content for various media
+389,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1647,2024-08-13,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+390,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1624,2024-08-20,"Design, Fine Arts Majors",Create visual content for various media
+391,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1750,2024-07-31,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+392,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1750,2024-06-28,"Computer Science, Graduating 2024",Develop and maintain web applications
+393,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1513,2024-07-13,"Finance, Economics Majors",Assist in financial analysis and reporting
+394,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1066,2024-07-22,"Design, Fine Arts Majors",Create visual content for various media
+395,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1267,2024-07-29,"Design, Fine Arts Majors",Create visual content for various media
+396,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1133,2024-08-02,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+397,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1417,2024-07-26,"Design, Fine Arts Majors",Create visual content for various media
+398,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1062,2024-08-18,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+399,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1187,2024-08-05,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+400,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1213,2024-07-23,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+401,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1725,2024-07-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+402,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1849,2024-08-22,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+403,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1069,2024-08-09,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+404,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1130,2024-08-08,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+405,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1886,2024-08-07,"Finance, Economics Majors",Assist in financial analysis and reporting
+406,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1994,2024-08-18,"Finance, Economics Majors",Assist in financial analysis and reporting
+407,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1454,2024-08-14,"Computer Science, Graduating 2024",Develop and maintain web applications
+408,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1071,2024-06-28,"Computer Science, Graduating 2024",Develop and maintain web applications
+409,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1824,2024-07-24,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+410,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1458,2024-07-24,"Computer Science, Graduating 2024",Develop and maintain web applications
+411,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1256,2024-07-22,"Computer Science, Graduating 2024",Develop and maintain web applications
+412,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1993,2024-07-07,"Design, Fine Arts Majors",Create visual content for various media
+413,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1696,2024-07-21,"Finance, Economics Majors",Assist in financial analysis and reporting
+414,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1761,2024-08-09,"Computer Science, Graduating 2024",Develop and maintain web applications
+415,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1888,2024-08-12,"Computer Science, Graduating 2024",Develop and maintain web applications
+416,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1156,2024-08-04,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+417,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1168,2024-08-24,"Finance, Economics Majors",Assist in financial analysis and reporting
+418,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1720,2024-06-29,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+419,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1229,2024-08-14,"Design, Fine Arts Majors",Create visual content for various media
+420,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1007,2024-08-01,"Design, Fine Arts Majors",Create visual content for various media
+421,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1285,2024-08-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+422,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1123,2024-07-24,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+423,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1653,2024-08-06,"Design, Fine Arts Majors",Create visual content for various media
+424,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1306,2024-08-10,"Design, Fine Arts Majors",Create visual content for various media
+425,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1459,2024-08-18,"Design, Fine Arts Majors",Create visual content for various media
+426,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1717,2024-07-02,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+427,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1712,2024-07-21,"Computer Science, Graduating 2024",Develop and maintain web applications
+428,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1972,2024-07-21,"Finance, Economics Majors",Assist in financial analysis and reporting
+429,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1937,2024-07-01,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+430,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1436,2024-07-16,"Computer Science, Graduating 2024",Develop and maintain web applications
+431,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1556,2024-07-16,"Design, Fine Arts Majors",Create visual content for various media
+432,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1347,2024-06-30,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+433,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1911,2024-07-14,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+434,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1430,2024-08-09,"Computer Science, Graduating 2024",Develop and maintain web applications
+435,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1298,2024-07-28,"Computer Science, Graduating 2024",Develop and maintain web applications
+436,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1958,2024-07-17,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+437,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1941,2024-08-11,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+438,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1164,2024-07-09,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+439,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1042,2024-08-06,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+440,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1665,2024-08-03,"Finance, Economics Majors",Assist in financial analysis and reporting
+441,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1219,2024-08-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+442,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1904,2024-08-10,"Design, Fine Arts Majors",Create visual content for various media
+443,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1112,2024-06-26,"Computer Science, Graduating 2024",Develop and maintain web applications
+444,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1436,2024-08-01,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+445,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1009,2024-07-20,"Finance, Economics Majors",Assist in financial analysis and reporting
+446,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1538,2024-08-05,"Finance, Economics Majors",Assist in financial analysis and reporting
+447,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1059,2024-07-01,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+448,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1273,2024-08-19,"Design, Fine Arts Majors",Create visual content for various media
+449,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1461,2024-07-19,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+450,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1579,2024-07-10,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+451,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1342,2024-08-01,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+452,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1976,2024-07-23,"Finance, Economics Majors",Assist in financial analysis and reporting
+453,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1526,2024-07-01,"Finance, Economics Majors",Assist in financial analysis and reporting
+454,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1532,2024-07-29,"Design, Fine Arts Majors",Create visual content for various media
+455,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1523,2024-08-01,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+456,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1254,2024-07-26,"Design, Fine Arts Majors",Create visual content for various media
+457,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1872,2024-08-02,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+458,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1455,2024-06-27,"Computer Science, Graduating 2024",Develop and maintain web applications
+459,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1652,2024-08-15,"Computer Science, Graduating 2024",Develop and maintain web applications
+460,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1917,2024-07-13,"Design, Fine Arts Majors",Create visual content for various media
+461,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1220,2024-08-16,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+462,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1161,2024-08-23,"Design, Fine Arts Majors",Create visual content for various media
+463,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1679,2024-08-15,"Design, Fine Arts Majors",Create visual content for various media
+464,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1171,2024-08-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+465,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1968,2024-08-17,"Finance, Economics Majors",Assist in financial analysis and reporting
+466,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1060,2024-08-09,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+467,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1145,2024-07-25,"Design, Fine Arts Majors",Create visual content for various media
+468,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1333,2024-06-26,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+469,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1947,2024-08-24,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+470,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1227,2024-07-20,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+471,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1099,2024-07-22,"Design, Fine Arts Majors",Create visual content for various media
+472,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1208,2024-07-09,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+473,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1901,2024-08-17,"Design, Fine Arts Majors",Create visual content for various media
+474,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1431,2024-07-24,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+475,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1118,2024-07-11,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+476,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1150,2024-08-24,"Finance, Economics Majors",Assist in financial analysis and reporting
+477,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1239,2024-07-10,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+478,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1247,2024-07-01,"Finance, Economics Majors",Assist in financial analysis and reporting
+479,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1635,2024-08-04,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+480,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1595,2024-08-05,"Finance, Economics Majors",Assist in financial analysis and reporting
+481,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1941,2024-07-28,"Finance, Economics Majors",Assist in financial analysis and reporting
+482,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1613,2024-08-13,"Finance, Economics Majors",Assist in financial analysis and reporting
+483,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1645,2024-08-07,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+484,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1296,2024-08-16,"Design, Fine Arts Majors",Create visual content for various media
+485,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1419,2024-07-21,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+486,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1228,2024-08-23,"Finance, Economics Majors",Assist in financial analysis and reporting
+487,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1418,2024-07-27,"Finance, Economics Majors",Assist in financial analysis and reporting
+488,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1875,2024-08-11,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+489,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1469,2024-07-12,"Finance, Economics Majors",Assist in financial analysis and reporting
+490,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1104,2024-08-15,"Finance, Economics Majors",Assist in financial analysis and reporting
+491,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1077,2024-08-15,"Design, Fine Arts Majors",Create visual content for various media
+492,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1848,2024-07-05,"Design, Fine Arts Majors",Create visual content for various media
+493,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1888,2024-08-04,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+494,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1476,2024-07-28,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+495,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1064,2024-06-29,"Computer Science, Graduating 2024",Develop and maintain web applications
+496,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1387,2024-07-07,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+497,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1495,2024-08-16,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+498,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1303,2024-07-11,"Computer Science, Graduating 2024",Develop and maintain web applications
+499,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1495,2024-07-12,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+500,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1744,2024-06-28,"Finance, Economics Majors",Assist in financial analysis and reporting
+501,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1830,2024-07-19,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+502,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1953,2024-08-11,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+503,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1710,2024-08-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+504,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1983,2024-08-12,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+505,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1992,2024-07-22,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+506,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1824,2024-08-13,"Design, Fine Arts Majors",Create visual content for various media
+507,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1524,2024-07-02,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+508,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1843,2024-08-20,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+509,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1264,2024-08-21,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+510,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1708,2024-06-30,"Finance, Economics Majors",Assist in financial analysis and reporting
+511,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1022,2024-08-19,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+512,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1137,2024-08-06,"Finance, Economics Majors",Assist in financial analysis and reporting
+513,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1268,2024-07-28,"Computer Science, Graduating 2024",Develop and maintain web applications
+514,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1743,2024-08-07,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+515,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1103,2024-07-24,"Finance, Economics Majors",Assist in financial analysis and reporting
+516,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1877,2024-08-06,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+517,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1794,2024-07-13,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+518,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1458,2024-08-22,"Design, Fine Arts Majors",Create visual content for various media
+519,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1764,2024-08-09,"Computer Science, Graduating 2024",Develop and maintain web applications
+520,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1095,2024-08-14,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+521,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1377,2024-08-22,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+522,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1969,2024-07-22,"Design, Fine Arts Majors",Create visual content for various media
+523,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1128,2024-08-18,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+524,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1309,2024-08-18,"Design, Fine Arts Majors",Create visual content for various media
+525,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1058,2024-07-03,"Computer Science, Graduating 2024",Develop and maintain web applications
+526,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1589,2024-07-27,"Computer Science, Graduating 2024",Develop and maintain web applications
+527,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1851,2024-07-12,"Computer Science, Graduating 2024",Develop and maintain web applications
+528,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1749,2024-08-06,"Finance, Economics Majors",Assist in financial analysis and reporting
+529,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1912,2024-08-16,"Computer Science, Graduating 2024",Develop and maintain web applications
+530,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1024,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+531,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1909,2024-07-02,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+532,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1393,2024-07-14,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+533,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1830,2024-08-15,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+534,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1607,2024-08-14,"Design, Fine Arts Majors",Create visual content for various media
+535,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1679,2024-07-19,"Design, Fine Arts Majors",Create visual content for various media
+536,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1783,2024-07-08,"Computer Science, Graduating 2024",Develop and maintain web applications
+537,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1525,2024-06-29,"Finance, Economics Majors",Assist in financial analysis and reporting
+538,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1640,2024-07-26,"Design, Fine Arts Majors",Create visual content for various media
+539,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1963,2024-07-02,"Design, Fine Arts Majors",Create visual content for various media
+540,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1830,2024-06-26,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+541,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1531,2024-08-24,"Computer Science, Graduating 2024",Develop and maintain web applications
+542,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1934,2024-07-18,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+543,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1289,2024-07-31,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+544,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1840,2024-07-05,"Design, Fine Arts Majors",Create visual content for various media
+545,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1023,2024-08-09,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+546,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1380,2024-07-06,"Finance, Economics Majors",Assist in financial analysis and reporting
+547,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1949,2024-06-26,"Computer Science, Graduating 2024",Develop and maintain web applications
+548,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1398,2024-07-21,"Computer Science, Graduating 2024",Develop and maintain web applications
+549,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1557,2024-07-17,"Finance, Economics Majors",Assist in financial analysis and reporting
+550,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1075,2024-08-05,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+551,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1172,2024-07-22,"Design, Fine Arts Majors",Create visual content for various media
+552,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1134,2024-06-28,"Finance, Economics Majors",Assist in financial analysis and reporting
+553,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1677,2024-07-02,"Finance, Economics Majors",Assist in financial analysis and reporting
+554,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1989,2024-08-10,"Finance, Economics Majors",Assist in financial analysis and reporting
+555,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1713,2024-08-21,"Design, Fine Arts Majors",Create visual content for various media
+556,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1498,2024-07-03,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+557,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1108,2024-08-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+558,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1053,2024-08-19,"Finance, Economics Majors",Assist in financial analysis and reporting
+559,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1178,2024-08-09,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+560,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1970,2024-07-09,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+561,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1923,2024-07-23,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+562,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1500,2024-07-25,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+563,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1663,2024-07-13,"Design, Fine Arts Majors",Create visual content for various media
+564,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1106,2024-07-07,"Computer Science, Graduating 2024",Develop and maintain web applications
+565,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1915,2024-07-06,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+566,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1253,2024-07-18,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+567,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1480,2024-07-02,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+568,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1493,2024-06-27,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+569,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1118,2024-07-27,"Design, Fine Arts Majors",Create visual content for various media
+570,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1335,2024-07-10,"Design, Fine Arts Majors",Create visual content for various media
+571,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1546,2024-07-29,"Design, Fine Arts Majors",Create visual content for various media
+572,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1901,2024-08-03,"Computer Science, Graduating 2024",Develop and maintain web applications
+573,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1710,2024-08-03,"Design, Fine Arts Majors",Create visual content for various media
+574,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1692,2024-06-29,"Finance, Economics Majors",Assist in financial analysis and reporting
+575,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1270,2024-07-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+576,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1390,2024-07-06,"Computer Science, Graduating 2024",Develop and maintain web applications
+577,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1514,2024-08-17,"Computer Science, Graduating 2024",Develop and maintain web applications
+578,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1056,2024-07-31,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+579,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1289,2024-08-05,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+580,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1959,2024-08-11,"Computer Science, Graduating 2024",Develop and maintain web applications
+581,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1689,2024-07-10,"Design, Fine Arts Majors",Create visual content for various media
+582,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1305,2024-07-01,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+583,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1277,2024-08-20,"Finance, Economics Majors",Assist in financial analysis and reporting
+584,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1056,2024-06-27,"Design, Fine Arts Majors",Create visual content for various media
+585,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1123,2024-08-14,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+586,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1494,2024-07-24,"Computer Science, Graduating 2024",Develop and maintain web applications
+587,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1461,2024-06-26,"Finance, Economics Majors",Assist in financial analysis and reporting
+588,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1145,2024-07-04,"Finance, Economics Majors",Assist in financial analysis and reporting
+589,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1271,2024-08-23,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+590,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1956,2024-08-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+591,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1583,2024-08-05,"Computer Science, Graduating 2024",Develop and maintain web applications
+592,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1166,2024-07-29,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+593,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1823,2024-07-21,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+594,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1196,2024-08-09,"Finance, Economics Majors",Assist in financial analysis and reporting
+595,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1304,2024-08-19,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+596,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1405,2024-07-11,"Finance, Economics Majors",Assist in financial analysis and reporting
+597,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1019,2024-08-24,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+598,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1276,2024-07-21,"Design, Fine Arts Majors",Create visual content for various media
+599,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1597,2024-06-30,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+600,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1375,2024-07-17,"Computer Science, Graduating 2024",Develop and maintain web applications
+601,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1332,2024-08-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+602,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1442,2024-08-23,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+603,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1119,2024-08-19,"Design, Fine Arts Majors",Create visual content for various media
+604,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1639,2024-07-23,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+605,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1364,2024-07-22,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+606,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1506,2024-07-05,"Computer Science, Graduating 2024",Develop and maintain web applications
+607,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1063,2024-07-08,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+608,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1184,2024-07-17,"Finance, Economics Majors",Assist in financial analysis and reporting
+609,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1911,2024-07-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+610,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1303,2024-07-13,"Finance, Economics Majors",Assist in financial analysis and reporting
+611,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1489,2024-08-15,"Computer Science, Graduating 2024",Develop and maintain web applications
+612,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1710,2024-08-06,"Computer Science, Graduating 2024",Develop and maintain web applications
+613,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1455,2024-07-03,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+614,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1959,2024-07-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+615,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1574,2024-07-28,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+616,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1105,2024-08-14,"Computer Science, Graduating 2024",Develop and maintain web applications
+617,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1172,2024-07-19,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+618,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1527,2024-07-20,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+619,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1158,2024-07-28,"Computer Science, Graduating 2024",Develop and maintain web applications
+620,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1106,2024-07-27,"Design, Fine Arts Majors",Create visual content for various media
+621,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1410,2024-07-18,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+622,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1492,2024-07-27,"Design, Fine Arts Majors",Create visual content for various media
+623,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1981,2024-06-26,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+624,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1020,2024-07-26,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+625,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1915,2024-07-03,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+626,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1700,2024-07-28,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+627,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1419,2024-08-01,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+628,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1435,2024-07-06,"Design, Fine Arts Majors",Create visual content for various media
+629,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1146,2024-07-02,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+630,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1515,2024-07-07,"Design, Fine Arts Majors",Create visual content for various media
+631,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1622,2024-08-21,"Computer Science, Graduating 2024",Develop and maintain web applications
+632,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1118,2024-08-02,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+633,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1185,2024-07-15,"Computer Science, Graduating 2024",Develop and maintain web applications
+634,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1780,2024-08-10,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+635,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1664,2024-08-10,"Computer Science, Graduating 2024",Develop and maintain web applications
+636,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1497,2024-08-11,"Computer Science, Graduating 2024",Develop and maintain web applications
+637,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1787,2024-08-14,"Computer Science, Graduating 2024",Develop and maintain web applications
+638,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1876,2024-08-18,"Design, Fine Arts Majors",Create visual content for various media
+639,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1255,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+640,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1978,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+641,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1421,2024-07-08,"Computer Science, Graduating 2024",Develop and maintain web applications
+642,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1184,2024-07-16,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+643,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1158,2024-08-19,"Design, Fine Arts Majors",Create visual content for various media
+644,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1564,2024-07-05,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+645,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1134,2024-08-17,"Finance, Economics Majors",Assist in financial analysis and reporting
+646,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1959,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+647,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1667,2024-07-15,"Design, Fine Arts Majors",Create visual content for various media
+648,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1259,2024-08-08,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+649,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1720,2024-07-11,"Design, Fine Arts Majors",Create visual content for various media
+650,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1023,2024-08-02,"Finance, Economics Majors",Assist in financial analysis and reporting
+651,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1642,2024-07-04,"Design, Fine Arts Majors",Create visual content for various media
+652,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1461,2024-06-30,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+653,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1283,2024-07-18,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+654,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1664,2024-08-09,"Finance, Economics Majors",Assist in financial analysis and reporting
+655,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1437,2024-07-26,"Design, Fine Arts Majors",Create visual content for various media
+656,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1259,2024-08-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+657,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1342,2024-06-30,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+658,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1739,2024-08-19,"Design, Fine Arts Majors",Create visual content for various media
+659,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1298,2024-07-16,"Design, Fine Arts Majors",Create visual content for various media
+660,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1887,2024-07-19,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+661,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1231,2024-08-02,"Finance, Economics Majors",Assist in financial analysis and reporting
+662,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1556,2024-07-01,"Design, Fine Arts Majors",Create visual content for various media
+663,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1896,2024-06-26,"Computer Science, Graduating 2024",Develop and maintain web applications
+664,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1511,2024-08-16,"Computer Science, Graduating 2024",Develop and maintain web applications
+665,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1630,2024-07-07,"Computer Science, Graduating 2024",Develop and maintain web applications
+666,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1617,2024-08-10,"Finance, Economics Majors",Assist in financial analysis and reporting
+667,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1690,2024-06-30,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+668,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1660,2024-07-28,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+669,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1927,2024-08-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+670,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1203,2024-07-25,"Computer Science, Graduating 2024",Develop and maintain web applications
+671,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1732,2024-07-22,"Computer Science, Graduating 2024",Develop and maintain web applications
+672,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1045,2024-08-01,"Finance, Economics Majors",Assist in financial analysis and reporting
+673,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1810,2024-07-02,"Computer Science, Graduating 2024",Develop and maintain web applications
+674,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1960,2024-08-23,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+675,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1953,2024-06-26,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+676,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1521,2024-07-21,"Design, Fine Arts Majors",Create visual content for various media
+677,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1573,2024-08-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+678,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1363,2024-07-24,"Finance, Economics Majors",Assist in financial analysis and reporting
+679,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1548,2024-08-02,"Design, Fine Arts Majors",Create visual content for various media
+680,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1287,2024-07-30,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+681,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1836,2024-07-30,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+682,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1242,2024-07-26,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+683,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1871,2024-08-15,"Design, Fine Arts Majors",Create visual content for various media
+684,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1266,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+685,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1577,2024-07-25,"Computer Science, Graduating 2024",Develop and maintain web applications
+686,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1121,2024-07-29,"Design, Fine Arts Majors",Create visual content for various media
+687,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1285,2024-08-02,"Finance, Economics Majors",Assist in financial analysis and reporting
+688,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1663,2024-08-15,"Design, Fine Arts Majors",Create visual content for various media
+689,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1960,2024-07-05,"Computer Science, Graduating 2024",Develop and maintain web applications
+690,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1017,2024-08-19,"Design, Fine Arts Majors",Create visual content for various media
+691,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1816,2024-08-24,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+692,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1725,2024-07-10,"Design, Fine Arts Majors",Create visual content for various media
+693,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1753,2024-07-17,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+694,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1841,2024-07-05,"Computer Science, Graduating 2024",Develop and maintain web applications
+695,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1433,2024-08-17,"Design, Fine Arts Majors",Create visual content for various media
+696,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1418,2024-07-18,"Design, Fine Arts Majors",Create visual content for various media
+697,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1084,2024-07-16,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+698,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1063,2024-08-05,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+699,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1878,2024-06-30,"Finance, Economics Majors",Assist in financial analysis and reporting
+700,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1812,2024-06-30,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+701,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1802,2024-07-06,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+702,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1816,2024-07-04,"Finance, Economics Majors",Assist in financial analysis and reporting
+703,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1490,2024-08-05,"Computer Science, Graduating 2024",Develop and maintain web applications
+704,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1515,2024-07-26,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+705,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1595,2024-07-28,"Finance, Economics Majors",Assist in financial analysis and reporting
+706,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1461,2024-08-09,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+707,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1982,2024-07-04,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+708,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1966,2024-07-11,"Finance, Economics Majors",Assist in financial analysis and reporting
+709,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1519,2024-08-24,"Computer Science, Graduating 2024",Develop and maintain web applications
+710,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1229,2024-07-23,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+711,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1914,2024-06-29,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+712,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1443,2024-07-01,"Computer Science, Graduating 2024",Develop and maintain web applications
+713,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1836,2024-08-17,"Design, Fine Arts Majors",Create visual content for various media
+714,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1223,2024-07-06,"Finance, Economics Majors",Assist in financial analysis and reporting
+715,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1726,2024-07-01,"Finance, Economics Majors",Assist in financial analysis and reporting
+716,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1389,2024-07-22,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+717,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1917,2024-08-22,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+718,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1607,2024-08-02,"Computer Science, Graduating 2024",Develop and maintain web applications
+719,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1353,2024-08-02,"Design, Fine Arts Majors",Create visual content for various media
+720,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1657,2024-07-11,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+721,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1387,2024-08-13,"Computer Science, Graduating 2024",Develop and maintain web applications
+722,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1288,2024-08-13,"Finance, Economics Majors",Assist in financial analysis and reporting
+723,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1856,2024-07-28,"Design, Fine Arts Majors",Create visual content for various media
+724,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1485,2024-07-04,"Design, Fine Arts Majors",Create visual content for various media
+725,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1449,2024-07-29,"Design, Fine Arts Majors",Create visual content for various media
+726,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1073,2024-08-10,"Finance, Economics Majors",Assist in financial analysis and reporting
+727,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1426,2024-08-24,"Computer Science, Graduating 2024",Develop and maintain web applications
+728,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1947,2024-06-27,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+729,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1993,2024-07-31,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+730,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1842,2024-07-05,"Computer Science, Graduating 2024",Develop and maintain web applications
+731,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1216,2024-08-18,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+732,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1925,2024-08-03,"Finance, Economics Majors",Assist in financial analysis and reporting
+733,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1600,2024-08-09,"Design, Fine Arts Majors",Create visual content for various media
+734,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1808,2024-08-05,"Finance, Economics Majors",Assist in financial analysis and reporting
+735,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1360,2024-07-04,"Computer Science, Graduating 2024",Develop and maintain web applications
+736,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1769,2024-08-21,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+737,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1617,2024-07-26,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+738,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1506,2024-07-31,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+739,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1938,2024-07-28,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+740,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1676,2024-06-28,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+741,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1750,2024-08-22,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+742,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1030,2024-07-02,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+743,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1746,2024-07-15,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+744,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1919,2024-07-30,"Design, Fine Arts Majors",Create visual content for various media
+745,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1708,2024-08-04,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+746,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1617,2024-07-21,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+747,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1611,2024-06-28,"Computer Science, Graduating 2024",Develop and maintain web applications
+748,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1082,2024-07-31,"Design, Fine Arts Majors",Create visual content for various media
+749,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1089,2024-07-11,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+750,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1749,2024-07-07,"Finance, Economics Majors",Assist in financial analysis and reporting
+751,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1118,2024-08-09,"Computer Science, Graduating 2024",Develop and maintain web applications
+752,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1799,2024-06-28,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+753,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1402,2024-06-30,"Design, Fine Arts Majors",Create visual content for various media
+754,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1449,2024-07-26,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+755,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1553,2024-08-19,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+756,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1911,2024-07-16,"Design, Fine Arts Majors",Create visual content for various media
+757,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1143,2024-07-07,"Design, Fine Arts Majors",Create visual content for various media
+758,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1719,2024-08-22,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+759,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1329,2024-08-06,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+760,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1573,2024-07-15,"Design, Fine Arts Majors",Create visual content for various media
+761,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1670,2024-08-10,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+762,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1720,2024-08-09,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+763,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1799,2024-06-29,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+764,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1584,2024-08-05,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+765,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1056,2024-08-12,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+766,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1513,2024-07-14,"Design, Fine Arts Majors",Create visual content for various media
+767,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1382,2024-08-10,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+768,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1366,2024-08-06,"Computer Science, Graduating 2024",Develop and maintain web applications
+769,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1410,2024-07-14,"Computer Science, Graduating 2024",Develop and maintain web applications
+770,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1757,2024-08-13,"Design, Fine Arts Majors",Create visual content for various media
+771,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1887,2024-07-30,"Computer Science, Graduating 2024",Develop and maintain web applications
+772,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1759,2024-08-02,"Design, Fine Arts Majors",Create visual content for various media
+773,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1258,2024-07-19,"Design, Fine Arts Majors",Create visual content for various media
+774,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1980,2024-07-21,"Design, Fine Arts Majors",Create visual content for various media
+775,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1393,2024-07-14,"Computer Science, Graduating 2024",Develop and maintain web applications
+776,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1829,2024-07-01,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+777,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1237,2024-07-01,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+778,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1313,2024-08-07,"Finance, Economics Majors",Assist in financial analysis and reporting
+779,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1458,2024-08-09,"Computer Science, Graduating 2024",Develop and maintain web applications
+780,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1401,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+781,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1362,2024-08-18,"Finance, Economics Majors",Assist in financial analysis and reporting
+782,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1557,2024-07-11,"Finance, Economics Majors",Assist in financial analysis and reporting
+783,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1495,2024-07-13,"Computer Science, Graduating 2024",Develop and maintain web applications
+784,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1278,2024-08-17,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+785,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1442,2024-08-07,"Computer Science, Graduating 2024",Develop and maintain web applications
+786,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1538,2024-06-29,"Computer Science, Graduating 2024",Develop and maintain web applications
+787,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1396,2024-07-21,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+788,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1198,2024-08-22,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+789,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1488,2024-07-20,"Finance, Economics Majors",Assist in financial analysis and reporting
+790,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1906,2024-07-06,"Computer Science, Graduating 2024",Develop and maintain web applications
+791,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1221,2024-08-15,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+792,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1549,2024-07-20,"Design, Fine Arts Majors",Create visual content for various media
+793,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1778,2024-07-11,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+794,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1584,2024-07-01,"Computer Science, Graduating 2024",Develop and maintain web applications
+795,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1344,2024-07-02,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+796,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1289,2024-07-08,"Design, Fine Arts Majors",Create visual content for various media
+797,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1058,2024-07-17,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+798,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1400,2024-08-10,"Finance, Economics Majors",Assist in financial analysis and reporting
+799,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",2,1112,2024-07-01,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+800,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1732,2024-07-09,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+801,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1765,2024-07-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+802,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1420,2024-08-12,"Computer Science, Graduating 2024",Develop and maintain web applications
+803,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1719,2024-07-15,"Finance, Economics Majors",Assist in financial analysis and reporting
+804,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1060,2024-07-15,"Computer Science, Graduating 2024",Develop and maintain web applications
+805,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1983,2024-07-15,"Design, Fine Arts Majors",Create visual content for various media
+806,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1416,2024-08-08,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+807,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1918,2024-07-17,"Computer Science, Graduating 2024",Develop and maintain web applications
+808,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1807,2024-08-08,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+809,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1506,2024-08-07,"Finance, Economics Majors",Assist in financial analysis and reporting
+810,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1080,2024-08-09,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+811,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1251,2024-07-13,"Design, Fine Arts Majors",Create visual content for various media
+812,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1492,2024-07-21,"Finance, Economics Majors",Assist in financial analysis and reporting
+813,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1777,2024-07-21,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+814,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1017,2024-07-02,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+815,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1365,2024-07-07,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+816,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1304,2024-08-20,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+817,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1096,2024-06-28,"Finance, Economics Majors",Assist in financial analysis and reporting
+818,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1719,2024-07-29,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+819,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1124,2024-07-17,"Computer Science, Graduating 2024",Develop and maintain web applications
+820,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1041,2024-07-29,"Computer Science, Graduating 2024",Develop and maintain web applications
+821,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1386,2024-08-05,"Finance, Economics Majors",Assist in financial analysis and reporting
+822,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1648,2024-07-06,"Finance, Economics Majors",Assist in financial analysis and reporting
+823,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1111,2024-08-13,"Finance, Economics Majors",Assist in financial analysis and reporting
+824,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1543,2024-07-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+825,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1764,2024-06-29,"Computer Science, Graduating 2024",Develop and maintain web applications
+826,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1393,2024-07-02,"Finance, Economics Majors",Assist in financial analysis and reporting
+827,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1710,2024-07-29,"Finance, Economics Majors",Assist in financial analysis and reporting
+828,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1190,2024-06-29,"Finance, Economics Majors",Assist in financial analysis and reporting
+829,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1121,2024-06-26,"Computer Science, Graduating 2024",Develop and maintain web applications
+830,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1111,2024-07-02,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+831,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1096,2024-08-05,"Computer Science, Graduating 2024",Develop and maintain web applications
+832,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1245,2024-07-12,"Finance, Economics Majors",Assist in financial analysis and reporting
+833,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1782,2024-08-05,"Computer Science, Graduating 2024",Develop and maintain web applications
+834,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1400,2024-07-12,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+835,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1488,2024-08-08,"Computer Science, Graduating 2024",Develop and maintain web applications
+836,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1475,2024-07-24,"Finance, Economics Majors",Assist in financial analysis and reporting
+837,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1758,2024-08-18,"Design, Fine Arts Majors",Create visual content for various media
+838,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1518,2024-07-06,"Design, Fine Arts Majors",Create visual content for various media
+839,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1500,2024-07-25,"Design, Fine Arts Majors",Create visual content for various media
+840,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1544,2024-07-26,"Finance, Economics Majors",Assist in financial analysis and reporting
+841,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1150,2024-08-08,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+842,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1101,2024-06-26,"Computer Science, Graduating 2024",Develop and maintain web applications
+843,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1528,2024-07-02,"Finance, Economics Majors",Assist in financial analysis and reporting
+844,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1267,2024-08-13,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+845,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1360,2024-08-04,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+846,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1185,2024-07-27,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+847,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1576,2024-07-04,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+848,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1072,2024-07-09,"Design, Fine Arts Majors",Create visual content for various media
+849,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1195,2024-07-24,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+850,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1938,2024-07-28,"Design, Fine Arts Majors",Create visual content for various media
+851,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1920,2024-07-20,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+852,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1134,2024-07-17,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+853,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1422,2024-08-12,"Finance, Economics Majors",Assist in financial analysis and reporting
+854,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1379,2024-08-01,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+855,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1149,2024-07-04,"Design, Fine Arts Majors",Create visual content for various media
+856,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1274,2024-07-07,"Computer Science, Graduating 2024",Develop and maintain web applications
+857,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1946,2024-08-03,"Design, Fine Arts Majors",Create visual content for various media
+858,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1668,2024-07-09,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+859,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1885,2024-08-22,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+860,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1908,2024-08-06,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+861,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1111,2024-08-19,"Finance, Economics Majors",Assist in financial analysis and reporting
+862,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1518,2024-08-24,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+863,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1825,2024-06-29,"Design, Fine Arts Majors",Create visual content for various media
+864,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1334,2024-06-30,"Computer Science, Graduating 2024",Develop and maintain web applications
+865,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1259,2024-07-03,"Computer Science, Graduating 2024",Develop and maintain web applications
+866,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1627,2024-08-24,"Computer Science, Graduating 2024",Develop and maintain web applications
+867,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1477,2024-07-03,"Design, Fine Arts Majors",Create visual content for various media
+868,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1050,2024-07-14,"Design, Fine Arts Majors",Create visual content for various media
+869,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1044,2024-07-17,"Computer Science, Graduating 2024",Develop and maintain web applications
+870,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1339,2024-06-26,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+871,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1668,2024-07-21,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+872,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1777,2024-08-17,"Computer Science, Graduating 2024",Develop and maintain web applications
+873,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1508,2024-08-10,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+874,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1958,2024-07-06,"Finance, Economics Majors",Assist in financial analysis and reporting
+875,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1916,2024-07-14,"Finance, Economics Majors",Assist in financial analysis and reporting
+876,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1126,2024-08-04,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+877,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1313,2024-08-23,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+878,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1845,2024-08-18,"Computer Science, Graduating 2024",Develop and maintain web applications
+879,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1747,2024-08-16,"Finance, Economics Majors",Assist in financial analysis and reporting
+880,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1465,2024-07-12,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+881,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1129,2024-08-09,"Design, Fine Arts Majors",Create visual content for various media
+882,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1226,2024-08-06,"Design, Fine Arts Majors",Create visual content for various media
+883,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1890,2024-08-19,"Design, Fine Arts Majors",Create visual content for various media
+884,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1457,2024-08-23,"Finance, Economics Majors",Assist in financial analysis and reporting
+885,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1291,2024-07-07,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+886,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1004,2024-07-01,"Design, Fine Arts Majors",Create visual content for various media
+887,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1613,2024-08-17,"Computer Science, Graduating 2024",Develop and maintain web applications
+888,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1960,2024-08-24,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+889,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1060,2024-08-06,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+890,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1425,2024-07-10,"Finance, Economics Majors",Assist in financial analysis and reporting
+891,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1553,2024-07-15,"Finance, Economics Majors",Assist in financial analysis and reporting
+892,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1260,2024-07-28,"Design, Fine Arts Majors",Create visual content for various media
+893,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1502,2024-07-31,"Computer Science, Graduating 2024",Develop and maintain web applications
+894,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1102,2024-07-13,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+895,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1007,2024-06-28,"Computer Science, Graduating 2024",Develop and maintain web applications
+896,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1420,2024-07-21,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+897,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1512,2024-07-04,"Computer Science, Graduating 2024",Develop and maintain web applications
+898,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1669,2024-07-26,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+899,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1785,2024-07-26,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+900,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1503,2024-07-29,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+901,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1428,2024-08-23,"Finance, Economics Majors",Assist in financial analysis and reporting
+902,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",4,1191,2024-07-02,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+903,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1223,2024-07-12,"Computer Science, Graduating 2024",Develop and maintain web applications
+904,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1415,2024-07-16,"Computer Science, Graduating 2024",Develop and maintain web applications
+905,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1025,2024-07-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+906,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1907,2024-08-19,"Finance, Economics Majors",Assist in financial analysis and reporting
+907,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1585,2024-07-30,"Design, Fine Arts Majors",Create visual content for various media
+908,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1687,2024-07-29,"Design, Fine Arts Majors",Create visual content for various media
+909,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1138,2024-07-03,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+910,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1625,2024-08-15,"Design, Fine Arts Majors",Create visual content for various media
+911,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1832,2024-08-21,"Finance, Economics Majors",Assist in financial analysis and reporting
+912,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1113,2024-08-21,"Design, Fine Arts Majors",Create visual content for various media
+913,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1473,2024-07-16,"Computer Science, Graduating 2024",Develop and maintain web applications
+914,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1242,2024-07-22,"Design, Fine Arts Majors",Create visual content for various media
+915,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1145,2024-08-23,"Computer Science, Graduating 2024",Develop and maintain web applications
+916,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1048,2024-07-03,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+917,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1493,2024-07-25,"Design, Fine Arts Majors",Create visual content for various media
+918,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1386,2024-07-10,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+919,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1407,2024-08-14,"Finance, Economics Majors",Assist in financial analysis and reporting
+920,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1867,2024-08-22,"Finance, Economics Majors",Assist in financial analysis and reporting
+921,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1721,2024-07-18,"Design, Fine Arts Majors",Create visual content for various media
+922,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1505,2024-07-26,"Finance, Economics Majors",Assist in financial analysis and reporting
+923,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",3,1759,2024-08-15,"Design, Fine Arts Majors",Create visual content for various media
+924,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1866,2024-07-19,"Computer Science, Graduating 2024",Develop and maintain web applications
+925,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1501,2024-07-02,"Finance, Economics Majors",Assist in financial analysis and reporting
+926,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1584,2024-08-12,"Computer Science, Graduating 2024",Develop and maintain web applications
+927,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1275,2024-07-23,"Design, Fine Arts Majors",Create visual content for various media
+928,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1229,2024-07-01,"Design, Fine Arts Majors",Create visual content for various media
+929,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1879,2024-07-11,"Computer Science, Graduating 2024",Develop and maintain web applications
+930,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1477,2024-08-17,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+931,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1025,2024-07-02,"Design, Fine Arts Majors",Create visual content for various media
+932,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1478,2024-07-19,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+933,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1786,2024-08-11,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+934,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1071,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+935,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1766,2024-08-19,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+936,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1481,2024-08-14,"Computer Science, Graduating 2024",Develop and maintain web applications
+937,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1539,2024-08-21,"Finance, Economics Majors",Assist in financial analysis and reporting
+938,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1132,2024-07-14,"Computer Science, Graduating 2024",Develop and maintain web applications
+939,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1766,2024-07-08,"Computer Science, Graduating 2024",Develop and maintain web applications
+940,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",4,1508,2024-06-30,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+941,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1048,2024-07-13,"Computer Science, Graduating 2024",Develop and maintain web applications
+942,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1698,2024-07-14,"Design, Fine Arts Majors",Create visual content for various media
+943,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1503,2024-07-31,"Design, Fine Arts Majors",Create visual content for various media
+944,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",3,1162,2024-07-18,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+945,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,1966,2024-07-02,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+946,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1629,2024-08-10,"Computer Science, Graduating 2024",Develop and maintain web applications
+947,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1381,2024-07-10,"Finance, Economics Majors",Assist in financial analysis and reporting
+948,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1450,2024-06-27,"Computer Science, Graduating 2024",Develop and maintain web applications
+949,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1391,2024-06-28,"Design, Fine Arts Majors",Create visual content for various media
+950,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1640,2024-08-19,"Finance, Economics Majors",Assist in financial analysis and reporting
+951,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1921,2024-07-12,"Design, Fine Arts Majors",Create visual content for various media
+952,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1455,2024-08-06,"Design, Fine Arts Majors",Create visual content for various media
+953,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1486,2024-08-19,"Finance, Economics Majors",Assist in financial analysis and reporting
+954,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1113,2024-08-06,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+955,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",2,1905,2024-08-03,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+956,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1384,2024-07-04,"Finance, Economics Majors",Assist in financial analysis and reporting
+957,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",4,1457,2024-06-28,"Computer Science, Graduating 2024",Develop and maintain web applications
+958,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1985,2024-07-17,"Design, Fine Arts Majors",Create visual content for various media
+959,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1487,2024-08-09,"Design, Fine Arts Majors",Create visual content for various media
+960,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1749,2024-07-02,"Finance, Economics Majors",Assist in financial analysis and reporting
+961,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1813,2024-08-06,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+962,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1639,2024-07-23,"Design, Fine Arts Majors",Create visual content for various media
+963,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1191,2024-08-09,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+964,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1558,2024-07-14,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+965,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1792,2024-08-04,"Design, Fine Arts Majors",Create visual content for various media
+966,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1982,2024-08-06,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+967,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1823,2024-07-08,"Finance, Economics Majors",Assist in financial analysis and reporting
+968,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",6,2000,2024-08-11,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+969,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1011,2024-07-22,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+970,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1972,2024-08-11,"Design, Fine Arts Majors",Create visual content for various media
+971,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",5,1040,2024-07-25,"Finance, Economics Majors",Assist in financial analysis and reporting
+972,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1055,2024-07-18,"Design, Fine Arts Majors",Create visual content for various media
+973,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1935,2024-08-20,"Design, Fine Arts Majors",Create visual content for various media
+974,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1260,2024-08-06,"Finance, Economics Majors",Assist in financial analysis and reporting
+975,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",6,1419,2024-08-18,"Design, Fine Arts Majors",Create visual content for various media
+976,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1697,2024-07-19,"Computer Science, Graduating 2024",Develop and maintain web applications
+977,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",6,1004,2024-07-20,"Computer Science, Graduating 2024",Develop and maintain web applications
+978,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1620,2024-07-07,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+979,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1284,2024-07-12,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+980,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1575,2024-07-03,"Finance, Economics Majors",Assist in financial analysis and reporting
+981,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1257,2024-07-23,"Finance, Economics Majors",Assist in financial analysis and reporting
+982,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",6,1376,2024-06-27,"Finance, Economics Majors",Assist in financial analysis and reporting
+983,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1342,2024-08-14,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+984,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1823,2024-07-14,"Finance, Economics Majors",Assist in financial analysis and reporting
+985,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",6,1656,2024-08-03,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+986,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",3,1716,2024-07-27,"Computer Science, Graduating 2024",Develop and maintain web applications
+987,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",5,1248,2024-07-12,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+988,Marketing Intern,MarketInc,"San Francisco, CA","Digital Marketing, SEO, Content Writing",5,1671,2024-07-26,"Marketing, Business Majors",Assist in creating marketing campaigns and SEO strategies
+989,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",3,1359,2024-06-27,"Finance, Economics Majors",Assist in financial analysis and reporting
+990,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1599,2024-08-14,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+991,Data Science Intern,TechCorp,"New York, NY","Python, Machine Learning, SQL",3,1973,2024-07-13,"Computer Science, Graduating 2025","Work on data analysis projects, create machine learning models"
+992,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",2,1823,2024-07-06,"Finance, Economics Majors",Assist in financial analysis and reporting
+993,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",2,1076,2024-07-12,"Computer Science, Graduating 2024",Develop and maintain web applications
+994,Software Engineer Intern,DevSolutions,Remote,"Java, React, Node.js",5,1988,2024-07-25,"Computer Science, Graduating 2024",Develop and maintain web applications
+995,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1293,2024-07-26,"Design, Fine Arts Majors",Create visual content for various media
+996,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1012,2024-07-07,"Design, Fine Arts Majors",Create visual content for various media
+997,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",4,1265,2024-08-13,"Design, Fine Arts Majors",Create visual content for various media
+998,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",2,1010,2024-07-31,"Design, Fine Arts Majors",Create visual content for various media
+999,Graphic Design Intern,CreativeArts,"Los Angeles, CA","Adobe Photoshop, Illustrator, InDesign",5,1992,2024-06-30,"Design, Fine Arts Majors",Create visual content for various media
+1000,Finance Intern,FinAnalytics,"Chicago, IL","Excel, Financial Modeling, Analysis",4,1914,2024-07-23,"Finance, Economics Majors",Assist in financial analysis and reporting
